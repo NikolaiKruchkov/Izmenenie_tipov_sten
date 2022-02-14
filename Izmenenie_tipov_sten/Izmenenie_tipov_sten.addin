@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Izmenenie_tipov_sten.dll"</Assembly>		
+		<AddInId>D7014A71-ECB0-4DF2-9FD3-82B6CF99F8AA</AddInId>		
+		<FullClassName>Izmenenie_tipov_sten.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Изменение типов стен</Text>
+	</AddIn>
+</RevitAddIns>
